@@ -1,0 +1,1 @@
+out = corrNominal(smoke,'datamatrix',true,'plots',1);
